@@ -1,0 +1,11 @@
+A:\GUI.PROGRCT\projectt\bin\Debug\projectt.exe.config
+A:\GUI.PROGRCT\projectt\bin\Debug\projectt.exe
+A:\GUI.PROGRCT\projectt\bin\Debug\projectt.pdb
+A:\GUI.PROGRCT\projectt\obj\Debug\projectt.csproj.AssemblyReference.cache
+A:\GUI.PROGRCT\projectt\obj\Debug\projectt.Form1.resources
+A:\GUI.PROGRCT\projectt\obj\Debug\projectt.Form2.resources
+A:\GUI.PROGRCT\projectt\obj\Debug\projectt.Properties.Resources.resources
+A:\GUI.PROGRCT\projectt\obj\Debug\projectt.csproj.GenerateResource.cache
+A:\GUI.PROGRCT\projectt\obj\Debug\projectt.csproj.CoreCompileInputs.cache
+A:\GUI.PROGRCT\projectt\obj\Debug\projectt.exe
+A:\GUI.PROGRCT\projectt\obj\Debug\projectt.pdb
